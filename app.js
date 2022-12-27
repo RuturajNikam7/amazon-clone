@@ -1,5 +1,5 @@
 // popup
-let popupCloseButton=document.querySelector('#popupClose')
+let popupCloseButton = document.querySelector('#popupClose')
 popupCloseButton.addEventListener('click',()=>{
     document.querySelector('#popup').style.display='none';
 })
