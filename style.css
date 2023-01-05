@@ -102,6 +102,7 @@ body {
     width: 100px;
     padding: 5px;
     margin: 6px 10px;
+    margin-top: 20%;
     border: 1px solid transparent;
 }
 
@@ -171,12 +172,61 @@ i {
     justify-content: space-between;
     overflow: hidden;
 }
-
-#srch {
-  margin-right: 8px;
-   cursor: pointer;
-    
+/* ...*/
+/* #weathercard {
+    width: 95%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 1%;
+    margin-bottom: 1rem;
+    padding:0 1%;
+    background:var(--clr-productCard);
+    border:3px solid var(--clr-bodyGradient);
+    backdrop-filter: blur(6.5px);
+    -webkit-backdrop-filter: blur(6.5px);
+    border: 1px solid rgba(255, 255, 255, 0.514);
 }
+#WeatherCardTitle{
+    background:var(--clr-navBar2);
+    width:100%;
+    text-align: center;
+    padding:0.2rem;
+    font-weight:600;
+    color:var(--clr-navBarText)
+}
+#weatherIcon{
+    background:var(--clr-weatherCardBg);
+    border-radius: 1rem;
+}
+#WeatherCardFooter{
+    border-top: 2px dotted var(--foreground);
+    padding-top: 1%;
+}
+#WeatherCardBody {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#weatherLocation {
+    font-weight: bold;
+    margin-top: 0.5rem;
+}
+
+#weatherdata {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 500;
+
+
+}
+#weatherDescription{
+    font-weight: 500;
+} */
 
 .input input {
     outline: none;
@@ -186,13 +236,15 @@ i {
     border: none;
 }
 
-.input .fa-search {
+.input .bi-search {
     color: rgb(51, 51, 51);
-    padding: 10px 15px;
+    /* padding: 23px 20px; */
+    margin-right: 1%;
     font-size: 25px;
     cursor: pointer;
-    background-color: #febd69;
+    /* background-color: #febd69; */
     border-radius: 0 5px 5px 0;
+
 }
 
 .input div {
@@ -212,7 +264,7 @@ i {
     cursor: pointer;
 }
 
-.input .fa-caret-down {
+.input .bi-caret-down {
     color: rgb(51, 51, 51);
     cursor: pointer;
     padding: 5px;
@@ -359,7 +411,7 @@ i {
     align-items: center;
     color: white;
     overflow: hidden;
-    ;
+    
 }
 
 .second ul {
@@ -423,7 +475,12 @@ i {
 }
 .location {
     color: white;
-    margin-top: 37%;
+    margin-top: -30%;
+    margin-left: 10%;
+    font-weight: bold;
+}
+.geo{
+    margin-top: 30%;
 }
 
 .bi-caret-down-fill {
@@ -482,8 +539,8 @@ i {
 }
 
 .in {
-    margin-top: 4%;
-    margin-left: -28%;
+    margin-top: 11%;
+    margin-left: -24%;
     font-weight: bold;
     font-size: 15px;
     color: #eaeded !important;
@@ -560,6 +617,7 @@ i {
     box-sizing: border-box;
     margin: 20px 0;
     justify-content: space-around;
+   
 }
 
 .product-comp .box {
@@ -571,6 +629,7 @@ i {
 .box box-c {
     width: 400px;
     height: 400px;
+   
 }
 
 .box h3 {
