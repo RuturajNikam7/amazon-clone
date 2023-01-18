@@ -1,0 +1,20 @@
+[
+    {
+        "b_id": 1,
+        "product_name": "Shirts",
+        "category": "Baby",
+        
+        "Price": 1000,
+        "color":"White",
+        "Brand": "Chintu"
+    },
+    {
+        "b_id": 2,
+        "product_name": "Pants",
+        "category": "Baby",
+        
+        "Price": 800,
+        "color":"Blue",
+        "Brand": "FirstCry"
+    }
+]

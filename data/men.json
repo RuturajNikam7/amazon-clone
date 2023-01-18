@@ -1,0 +1,22 @@
+[
+    {
+        "id":6,
+        "category":"Clothing"
+    },
+    {
+        "id":7,
+        "category": "Grooming"
+    },
+    {
+        "id":8,
+        "category": "Footwear"
+    },
+    {
+        "id":9,
+        "category": "Watches"
+    },
+    {
+        "id":10,
+        "category": "Sports"
+    }
+]

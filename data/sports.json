@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "product_name": "Shoes",
+        "category": "Sports",
+        
+        "Price": 2000,
+        "color":"Black",
+        "Brand": "Nike"
+    },
+    {
+        "id": 2,
+        "product_name": "Gloves",
+        "category": "Sports",
+        
+        "Price": 300,
+        "color":"Black,White",
+        "Brand": "Nike"
+    },
+    {
+        "id": 3,
+        "product_name": "Protein",
+        "category": "Sports",
+        
+        "Price": 4000,
+        "Description": "Completes your daily protein requirement",
+        "Brand": "ONN"
+    },
+    {
+        "id": 4,
+        "product_name": "Hoodies",
+        "category": "Sports",
+        
+        "Price": 2000,
+        "Description": "Wore and Shine",
+        "Brand": "Cbum"
+    }
+]

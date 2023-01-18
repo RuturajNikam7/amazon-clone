@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "product_name": "Smart Watches",
+        "category": "Electronics",
+        "category_id": 1,
+        "Price": 2000,
+        "color":"Black",
+        "Brand": "Apple"
+    },
+    {
+        "id": 2,
+        "product_name": "Headphones",
+        "category": "Electronics",
+        "category_id": 1,
+        "Price": 3000,
+        "color":"Black,White",
+        "Brand": "Boat"
+    },
+    {
+        "id": 3,
+        "product_name": "Laptops",
+        "category": "Electronics",
+        "category_id": 1,
+        "Price": 40000,
+    
+        "Brand": "HP"
+    },
+    {
+        "id": 4,
+        "product_name": "Televisions",
+        "category": "Electronics",
+        "category_id": 1,
+        "Price": 40000,
+    
+        "Brand": "Sony"
+    },
+    {
+        "id": 5,
+        "product_name": "Camera",
+        "category": "Electronics",
+        "category_id": 1,
+        "Price": 30000,
+    
+        "Brand": "Nikon"
+    },
+    {
+        "id": 6,
+        "product_name": "Footwear",
+        "category": "Men",
+        "category_id": 2,
+        "Price": 3000,
+    
+        "Brand": "Puma"
+    },
+    {
+        "id": 7,
+        "product_name": "Perfumes",
+        "category": "Men",
+        "category_id": 2,
+        "Price": 2000,
+    
+        "Brand": "Louis Vuitton"
+    },
+    {
+        "id": 8,
+        "product_name": "T-shirt",
+        "category": "Men",
+        "category_id": 2,
+        "Price": 500,
+    
+        "Brand": ""
+    }
+]

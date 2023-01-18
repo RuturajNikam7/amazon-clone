@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "category":"Electronics"
+    },
+    {
+        "id":2,
+        "category": "Men"
+    },
+    {
+        "id":3,
+        "category": "Women"
+    },
+    {
+        "id":4,
+        "category": "Baby&Kids"
+    },
+    {
+        "id":5,
+        "category": "Sports&Books"
+    }
+]

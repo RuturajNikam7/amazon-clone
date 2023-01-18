@@ -1,0 +1,38 @@
+[
+    {
+        "w_id": 1,
+        "product_name": "Top",
+        "category": "Women",
+        
+        "Price": 2000,
+        "color":"Black",
+        "Brand": "Zara"
+    },
+    {
+        "w_id": 2,
+        "product_name": "Jeans",
+        "category": "Women",
+      
+        "Price": 3000,
+        "color":"Blue",
+        "Brand": "American Express"
+    },
+    {
+        "w_id": 3,
+        "product_name": "Syndra's Aroma",
+        "category": "Women",
+       
+        "Price": 2000,
+        
+        "Brand": "Syndra's Aroma"
+    },
+    {
+        "w_id": 4,
+        "product_name": "Loriel Paris Shampoo",
+        "category": "Women",
+        
+        "Price": 1000,
+        
+        "Brand": "Loriel"
+    }
+]

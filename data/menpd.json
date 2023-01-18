@@ -1,0 +1,138 @@
+[
+    {
+        "m_id": 1,
+        "product_name": "T-Shirt",
+        "category": "Clothing",
+        "category_id": 6,
+        "Price": 1000,
+        "color":"Black",
+        "Brand": "Puma"
+    },
+    {
+        "m_id": 2,
+        "product_name": "Formal Shirt",
+        "category": "Clothing",
+        "category_id": 6,
+        "Price": 3000,
+        "color":"White",
+        "Brand": "Reymond"
+    },
+    {
+        "m_id": 3,
+        "product_name": "Casual Shirts",
+        "category": "Clothing",
+        "category_id": 6,
+        "Price": 4000,
+    
+        "Brand": "Reymond"
+    },
+    {
+        "m_id": 4,
+        "product_name": "Casual Shirts",
+        "category": "Clothing",
+        "category_id": 6,
+        "Price": 4000,
+        "Color": "Black",
+        "Brand": "Peter England"
+    },
+    {
+        "m_id": 5,
+        "product_name": "Royal Aroma",
+        "category": "Grooming",
+        "category_id": 7,
+        "Price": 5000,
+        
+        "Brand": "Royal Perfumes"
+    },
+    {
+        "m_id": 6,
+        "product_name": "Classy Shade",
+        "category": "Clothing",
+        "category_id": 7,
+        "Price": 4000,
+        
+        "Brand": "Louis Vuitton"
+    },
+    {
+        "m_id": 7,
+        "product_name": "Nike Joyride",
+        "category": "Footwear",
+        "category_id": 8,
+        "Price": 4000,
+       
+        "Brand": "Nike"
+    },
+    {
+        "m_id": 8,
+        "product_name": "Puma Buzz",
+        "category": "Footwear",
+        "category_id": 8,
+        "Price": 5000,
+       
+        "Brand": "Puma"
+    },
+    {
+        "m_id": 9,
+        "product_name": "Air 1",
+        "category": "Footwear",
+        "category_id": 8,
+        "Price": 80000,
+       
+        "Brand": "Nike"
+    },
+    {
+        "m_id": 10,
+        "product_name": "Sandel",
+        "category": "Footwear",
+        "category_id": 8,
+        "Price": 2000,
+       
+        "Brand": "Woodland"
+    },
+    {
+        "m_id": 11,
+        "product_name": "Versace",
+        "category": "Watches",
+        "category_id": 9,
+        "Price": 100000,
+       
+        "Brand": "Versace"
+    },
+    {
+        "m_id": 12,
+        "product_name": "Titan",
+        "category": "Watches",
+        "category_id": 9,
+        "Price": 20000,
+       
+        "Brand": "Titan"
+    },
+    {
+        "m_id": 13,
+        "product_name": "Trowsers",
+        "category": "Sports",
+        "category_id": 10,
+        "Price": 1000,
+       
+        "Brand": "Adidas"
+    },
+    {
+        "m_id": 14,
+        "product_name": "Joggers",
+        "category": "Sports",
+        "category_id": 10,
+        "Price": 2000,
+       
+        "Brand": "Adidas"
+    },
+    {
+        "m_id": 15,
+        "product_name": "Hoodie",
+        "category": "Sports",
+        "category_id": 10,
+        "Price": 2000,
+       
+        "Brand": "Nike"
+    }
+    
+]

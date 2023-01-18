@@ -1,0 +1,137 @@
+[
+    {
+        "e_id": 1,
+        "product_name": "iphone13",
+        "category": "Mobiles",
+        "category_id": 1,
+        "Price": 100000,
+        "color":"Black",
+        "Brand": "Apple"
+    },
+    {
+        "e_id": 2,
+        "product_name": "S22",
+        "category": "Mobiles",
+        "category_id": 1,
+        "Price": 30000,
+        "color":"White",
+        "Brand": "Samsung"
+    },
+    {
+        "e_id": 3,
+        "product_name": "Vivo V23",
+        "category": "Mobiles",
+        "category_id": 1,
+        "Price": 40000,
+    
+        "Brand": "Vivo"
+    },
+    {
+        "e_id": 4,
+        "product_name": "Oppo f9",
+        "category": "Mobiles",
+        "category_id": 1,
+        "Price": 20000,
+    
+        "Brand": "Oppo"
+    },
+    {
+        "e_id": 5,
+        "product_name": "Poco X2",
+        "category": "Electronics",
+        "category_id": 1,
+        "Price": 15000,
+    
+        "Brand": "Poco"
+    },
+    {
+        "e_id": 6,
+        "product_name": "Firebolt X2",
+        "category": "Electronics",
+        "category_id": 2,
+        "Price": 1500,
+    
+        "Brand": "Firebolt"
+    },
+    {
+        "e_id": 7,
+        "product_name": "Apple watch",
+        "category": "Electronics",
+        "category_id": 2,
+        "Price": 20000,
+    
+        "Brand": "Apple"
+    },
+    {
+        "e_id": 8,
+        "product_name": "Hp Pavillion 15",
+        "category": "Electronics",
+        "category_id": 3,
+        "Price": 50000,
+    
+        "Brand": "HP"
+    },
+    {
+        "e_id": 9,
+        "product_name": "Hp Victus",
+        "category": "Electronics",
+        "category_id": 3,
+        "Price": 54000,
+    
+        "Brand": "HP"
+    },
+    {
+        "e_id": 10,
+        "product_name": "Macbook Pro",
+        "category": "Electronics",
+        "category_id": 3,
+        "Price": 100000,
+    
+        "Brand": "Apple"
+    },
+    {
+        "e_id": 11,
+        "product_name": "JBL Bass Booster",
+        "category": "Electronics",
+        "category_id": 4,
+        "Price": 10000,
+    
+        "Brand": "JBL"
+    },
+    {
+        "e_id": 12,
+        "product_name": "Sony Sound",
+        "category": "Electronics",
+        "category_id": 4,
+        "Price": 8000,
+    
+        "Brand": "Sony"
+    },
+    {
+        "e_id": 13,
+        "product_name": "Canon F10",
+        "category": "Electronics",
+        "category_id": 5,
+        "Price": 80000,
+    
+        "Brand": "Canon"
+    },
+    {
+        "e_id": 14,
+        "product_name": "Canon Ultra",
+        "category": "Electronics",
+        "category_id": 5,
+        "Price": 100000,
+    
+        "Brand": "Canon"
+    },
+    {
+        "e_id": 15,
+        "product_name": "Nikon Z22",
+        "category": "Electronics",
+        "category_id": 5,
+        "Price": 70000,
+    
+        "Brand": "Nikon"
+    }
+]

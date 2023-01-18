@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "category":"Mobiles"
+    },
+    {
+        "id":2,
+        "category": "Smart Tech"
+    },
+    {
+        "id":3,
+        "category": "Laptops"
+    },
+    {
+        "id":4,
+        "category": "Speakers"
+    },
+    {
+        "id":5,
+        "category": "Camera"
+    }
+]
